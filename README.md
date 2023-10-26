@@ -10,6 +10,11 @@
  ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
+- [综测，大学里最恶心的东西之一](https://blog.qi1.zone/p/zJNfRNwDNLHe)
+- [PyQt5实现一个管道铺设系统](https://blog.qi1.zone/p/ZBnGHeqSqtqU)
+- [我的世界建筑系列3](https://blog.qi1.zone/p/xzJKLSMZdekD)
+- [如何编写高质量代码](https://blog.qi1.zone/p/iPnVtsmEslVP)
+- [修复MyLife主题游客登录问题](https://blog.qi1.zone/p/FHzJbejAbYee)
 <!-- BLOG-POST-LIST:END -->
 
 ### 统计
