@@ -1,6 +1,7 @@
 <h1 align='center'>你好，这里是棋</h1>
 <h4 align='center'>个人开发者，大三学生</h4>
 
+### 技术栈
 <p align='center'><a href='https://api.qi1.zone/api/mail?mail=k.qi1.zone@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a> <a href='https://qi1.zone/wechat.html'><img src='https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white' /></a>  <a href='https://github.com/qi1x/'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' /></a> <a href='https://twitter.com/qi1zone'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a> <a href='https://blog.qi1.zone/feed'><img src='https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white' /></a> </p>
 
 
