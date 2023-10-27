@@ -17,7 +17,7 @@
 - [浅谈国内乌烟瘴气的APP环境](https://blog.qi1.zone/p/odHecIaeKURL)
 - [综测，大学里最恶心的东西之一](https://blog.qi1.zone/p/zJNfRNwDNLHe)
 - [PyQt5实现一个管道铺设系统](https://blog.qi1.zone/p/ZBnGHeqSqtqU)
-- [我的世界建筑系列3](https://blog.qi1.zone/p/xzJKLSMZdekD)
+- [我的世界建筑3：红石别墅计划](https://blog.qi1.zone/p/xzJKLSMZdekD)
 - [如何编写高质量代码](https://blog.qi1.zone/p/iPnVtsmEslVP)
 <!-- BLOG-POST-LIST:END -->
 
