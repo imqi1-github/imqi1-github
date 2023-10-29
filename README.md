@@ -27,6 +27,4 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=qi1x&show_icons=true&theme=dark&count_private=true' />
 
-<img src='https://metrics.lecoq.io/qi1x?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai' />
-
 [![Sunshine's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qi1x&theme=xcode)](https://github.com/qi1x)
