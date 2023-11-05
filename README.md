@@ -14,11 +14,11 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
+- [学校的那些奇葩规则，到底有什么用？](https://blog.qi1.zone/p/PPrtADpjHiKc)
 - [那些玩过的Steam游戏](https://blog.qi1.zone/p/mqfxzASyQvgA)
 - [今天，聊一聊AI](https://blog.qi1.zone/p/OvLMQNFMBYJn)
 - [浅谈国内乌烟瘴气的APP环境](https://blog.qi1.zone/p/odHecIaeKURL)
 - [综测，大学里最恶心的东西之一](https://blog.qi1.zone/p/zJNfRNwDNLHe)
-- [PyQt5实现一个管道铺设系统](https://blog.qi1.zone/p/ZBnGHeqSqtqU)
 <!-- BLOG-POST-LIST:END -->
 
 ### 统计
