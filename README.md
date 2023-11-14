@@ -14,11 +14,11 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
+- [分享博主正在用的API](https://blog.qi1.zone/p/FdeONIgyGWTN)
 - [腾讯AI大模型：混元上手](https://blog.qi1.zone/p/dHAlDeCALYMK)
 - [Python库推荐：地理、函数式编程](https://blog.qi1.zone/p/MFemkfQqWESc)
 - [学校的那些奇葩规则，到底有什么用？](https://blog.qi1.zone/p/PPrtADpjHiKc)
 - [那些玩过的Steam游戏](https://blog.qi1.zone/p/mqfxzASyQvgA)
-- [今天，聊一聊AI](https://blog.qi1.zone/p/OvLMQNFMBYJn)
 <!-- BLOG-POST-LIST:END -->
 
 ### 统计
