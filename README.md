@@ -14,11 +14,11 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT4上手：迄今为止最强大的大模型](https://blog.qi1.zone/p/WpZFvdTDJYSc)
 - [分享博主正在用的API](https://blog.qi1.zone/p/FdeONIgyGWTN)
 - [腾讯混元大模型上手：上下文能力有待加强](https://blog.qi1.zone/p/dHAlDeCALYMK)
 - [Python库推荐：地理、函数式编程](https://blog.qi1.zone/p/MFemkfQqWESc)
 - [学校的那些奇葩规则，到底有什么用？](https://blog.qi1.zone/p/PPrtADpjHiKc)
-- [那些玩过的Steam游戏](https://blog.qi1.zone/p/mqfxzASyQvgA)
 <!-- BLOG-POST-LIST:END -->
 
 ### 统计
