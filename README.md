@@ -14,7 +14,7 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
-- [文章预告：教你如何打造个性化DNS服务器](https://blog.qi1.zone/p/WoEqCRnfBVyD)
+- [教你如何打造个性化DNS服务器](https://blog.qi1.zone/p/WoEqCRnfBVyD)
 - [为博客申请一年的泛域名证书](https://blog.qi1.zone/p/UTclYKHvEwti)
 - [GPT4上手：迄今为止最强大的大模型](https://blog.qi1.zone/p/WpZFvdTDJYSc)
 - [分享博主正在用的API](https://blog.qi1.zone/p/FdeONIgyGWTN)
