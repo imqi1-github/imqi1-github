@@ -14,11 +14,11 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
+- [文章预告：教你如何打造个性化DNS服务器](https://blog.qi1.zone/p/WoEqCRnfBVyD)
 - [为博客申请一年的泛域名证书](https://blog.qi1.zone/p/UTclYKHvEwti)
 - [GPT4上手：迄今为止最强大的大模型](https://blog.qi1.zone/p/WpZFvdTDJYSc)
 - [分享博主正在用的API](https://blog.qi1.zone/p/FdeONIgyGWTN)
 - [腾讯混元大模型上手：上下文能力有待加强](https://blog.qi1.zone/p/dHAlDeCALYMK)
-- [Python库推荐：地理、函数式编程](https://blog.qi1.zone/p/MFemkfQqWESc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 统计
