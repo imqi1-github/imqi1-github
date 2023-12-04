@@ -14,11 +14,11 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
+- [小记](https://blog.qi1.zone/p/OqepawtAWPJC)
 - [分享下最近做的事情](https://blog.qi1.zone/p/fUiQxByEHliy)
 - [脆皮大学生现状，大学生们该加强锻炼了](https://blog.qi1.zone/p/kyfTesQGCkkQ)
 - [用EdgeOne打造个性DNS服务器](https://blog.qi1.zone/p/WoEqCRnfBVyD)
 - [为博客申请一年的泛域名证书](https://blog.qi1.zone/p/UTclYKHvEwti)
-- [GPT4上手：迄今为止最强大的大模型](https://blog.qi1.zone/p/WpZFvdTDJYSc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 统计
