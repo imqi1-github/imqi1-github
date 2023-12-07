@@ -14,11 +14,11 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini 1.0正式发布，比肩GPT4的强大AI](https://blog.qi1.zone/p/vafUkBscLheG)
 - [小记](https://blog.qi1.zone/p/OqepawtAWPJC)
 - [分享下最近做的事情](https://blog.qi1.zone/p/fUiQxByEHliy)
 - [脆皮大学生现状，大学生们该加强锻炼了](https://blog.qi1.zone/p/kyfTesQGCkkQ)
 - [用EdgeOne打造个性DNS服务器](https://blog.qi1.zone/p/WoEqCRnfBVyD)
-- [为博客申请一年的泛域名证书](https://blog.qi1.zone/p/UTclYKHvEwti)
 <!-- BLOG-POST-LIST:END -->
 
 ### 统计
