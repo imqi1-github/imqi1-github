@@ -14,11 +14,11 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
+- [使用图标为网页增添小细节](https://blog.qi1.zone/p/VVXiEMOpaFRd)
 - [计组课设，使用四个寄存器、13个汇编指令实现一个排序器](https://blog.qi1.zone/p/YBAzuacpvIZh)
 - [使用CDN和云存储的站长们，你们得注意了](https://blog.qi1.zone/p/zqBrRxldhKSd)
 - [Vercel平替，微信云托管体验](https://blog.qi1.zone/p/JFoLFzWfthvF)
 - [游戏，21世纪的第九艺术](https://blog.qi1.zone/p/lnJAdTdUvyZL)
-- [Vercel介绍，免费、方便上线网站的首选方案](https://blog.qi1.zone/p/juGjHfyTXfjf)
 <!-- BLOG-POST-LIST:END -->
 
 ### 统计
