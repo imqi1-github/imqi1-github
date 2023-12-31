@@ -14,7 +14,7 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
-- [简单几步部署自己独有的Gemini Pro Chat](https://blog.qi1.zone/p/785)
+- [简单几步部署自己独有的Gemini Pro Chat](https://blog.qi1.zone/p/hzMGWjzBZoVV)
 - [Vuepress-Hope折腾日记 &amp;amp; 搭建教程](https://blog.qi1.zone/p/oMKZAWVwEkml)
 - [中国大陆网游限制的发展史](https://blog.qi1.zone/p/hSSPsWroWMhE)
 - [使用图标为网页增添小细节](https://blog.qi1.zone/p/VVXiEMOpaFRd)
