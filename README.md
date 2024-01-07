@@ -14,11 +14,11 @@
 ### 最近博文
 
 <!-- BLOG-POST-LIST:START -->
+- [你们的快乐，不是免费获得的](https://blog.qi1.zone/p/weDNDSCdqjDd)
 - [网站重构大计划](https://blog.qi1.zone/p/ZmChLKIFJPlR)
 - [擦边主播要着急了](https://blog.qi1.zone/p/BJqHbSABEVxw)
 - [2023年12月总结 &amp;amp; 2023年总结](https://blog.qi1.zone/p/GqVarXjRLiVn)
 - [简单几步部署自己独有的Gemini Pro Chat](https://blog.qi1.zone/p/hzMGWjzBZoVV)
-- [Vuepress-Hope折腾日记 &amp;amp; 搭建教程](https://blog.qi1.zone/p/oMKZAWVwEkml)
 <!-- BLOG-POST-LIST:END -->
 
 ### 统计
