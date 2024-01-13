@@ -22,8 +22,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-
 <p>&emsp;&emsp;大家好，我是棋。</p>
 <p>&emsp;&emsp;热爱编程、骑行、看电影、听音乐。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的全栈开发者。</p>
