@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- [docopt -- 一个优雅的 Python 库](https://blog.qi1.zone/p/sSCsdFvbDPf)
-- [一个星期，网站重构计划](https://blog.qi1.zone/p/RVOByIxRfHWz)
-- [你们的快乐，不是免费获得的](https://blog.qi1.zone/p/weDNDSCdqjDd)
-- [网站重构大计划](https://blog.qi1.zone/p/ZmChLKIFJPlR)
-- [擦边主播要着急了](https://blog.qi1.zone/p/BJqHbSABEVxw)
+- [大年初一的天气](https://imqi1.com/shot/99)
+- [乐高恐龙](https://imqi1.com/shot/97)
+- [扑克牌空间](https://imqi1.com/shot/95)
+- [简单给网站加个PWA](https://imqi1.com/tech/92)
+- [虞美人](https://imqi1.com/shot/87)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
