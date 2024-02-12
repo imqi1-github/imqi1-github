@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [快乐从不是免费得到的](https://imqi1.com/note/119)
+- [VuePress Hope主题](https://imqi1.com/tech/118)
+- [pip加速](https://imqi1.com/tech/101)
 - [大年初一的天气](https://imqi1.com/shot/99)
 - [乐高恐龙](https://imqi1.com/shot/97)
-- [扑克牌空间](https://imqi1.com/shot/95)
-- [简单给网站加个PWA](https://imqi1.com/tech/92)
-- [虞美人](https://imqi1.com/shot/87)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
