@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [注销了b站账号](https://imqi1.com/note/123)
 - [音乐：《十年》](https://imqi1.com/interest/121)
 - [一些话](https://imqi1.com/discuss/120)
 - [快乐从不是免费得到的](https://imqi1.com/note/119)
 - [VuePress Hope主题](https://imqi1.com/tech/118)
-- [pip加速](https://imqi1.com/tech/101)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
