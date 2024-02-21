@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [我也有个自己的平板啦](https://imqi1.com/note/127)
 - [焕然一新的关于界面](https://imqi1.com/note/125)
 - [注销了b站账号](https://imqi1.com/note/123)
 - [音乐：《十年》](https://imqi1.com/interest/121)
 - [一些话](https://imqi1.com/discuss/120)
-- [快乐从不是免费得到的](https://imqi1.com/note/119)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
