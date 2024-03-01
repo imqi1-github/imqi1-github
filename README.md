@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [给电脑安了个Ubuntu](https://imqi1.com/note/145)
 - [小记-开学前的感想](https://imqi1.com/note/143)
 - [开学前最后逛盛京中街](https://imqi1.com/note/142)
 - [小积木拼成的钢铁侠](https://imqi1.com/shot/135)
 - [我也有个自己的平板啦](https://imqi1.com/note/127)
-- [焕然一新的关于界面](https://imqi1.com/note/125)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
