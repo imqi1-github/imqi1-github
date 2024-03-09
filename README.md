@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [继续制作一些页面](https://imqi1.com/note/204)
 - [最近开始收听纯音乐](https://imqi1.com/note/200)
 - [Ubuntu安装软件  &amp;amp; 卸载](https://imqi1.com/tech/170)
 - [Ubuntu美化教程](https://imqi1.com/tech/156)
 - [Ubuntu双系统安装教程](https://imqi1.com/tech/153)
-- [给电脑安了个Ubuntu](https://imqi1.com/note/145)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
