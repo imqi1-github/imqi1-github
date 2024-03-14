@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [骗局与谎言](https://imqi1.com/discuss/220.imqi1)
 - [分享：来自抖音的一组图片](https://imqi1.com/interest/216.imqi1)
 - [继续制作一些页面](https://imqi1.com/note/204.imqi1)
 - [最近开始收听纯音乐](https://imqi1.com/note/200.imqi1)
 - [Ubuntu安装软件  &amp;amp; 卸载](https://imqi1.com/tech/170.imqi1)
-- [Ubuntu美化教程](https://imqi1.com/tech/156.imqi1)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
