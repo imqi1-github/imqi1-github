@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [一个月，妈妈给了我3500块钱](https://imqi1.com/note/230.imqi1)
 - [简评邯郸初中生事件](https://imqi1.com/discuss/226.imqi1)
 - [315最大受害者不是商家](https://imqi1.com/discuss/224.imqi1)
 - [骗局与谎言](https://imqi1.com/discuss/220.imqi1)
 - [分享：来自抖音的一组图片](https://imqi1.com/interest/216.imqi1)
-- [继续制作一些页面](https://imqi1.com/note/204.imqi1)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
