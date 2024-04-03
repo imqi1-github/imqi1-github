@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu虚拟机踩坑记录](https://imqi1.com/tech/255.imqi1)
 - [百日誓师干呕男孩](https://imqi1.com/discuss/245.imqi1)
 - [天津之旅](https://imqi1.com/note/233.imqi1)
 - [一个月，妈妈给了我3500块钱](https://imqi1.com/note/230.imqi1)
 - [简评邯郸初中生事件](https://imqi1.com/discuss/226.imqi1)
-- [315最大受害者不是商家](https://imqi1.com/discuss/224.imqi1)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
