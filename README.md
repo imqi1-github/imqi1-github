@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [自认为一次成功的买号](https://imqi1.com/note/261.imqi1)
 - [里仁B楼门前的樱花](https://imqi1.com/shot/257.imqi1)
 - [Ubuntu虚拟机踩坑记录](https://imqi1.com/tech/255.imqi1)
 - [百日誓师干呕男孩](https://imqi1.com/discuss/245.imqi1)
 - [天津之旅](https://imqi1.com/note/233.imqi1)
-- [一个月，妈妈给了我3500块钱](https://imqi1.com/note/230.imqi1)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
