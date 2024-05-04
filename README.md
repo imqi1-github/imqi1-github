@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [胖猫事件令我感到痛心](https://imqi1.com/discuss/269.imqi1)
 - [一组光遇的合照](https://imqi1.com/interest/268.imqi1)
 - [自认为一次成功的买号](https://imqi1.com/note/261.imqi1)
 - [里仁B楼门前的樱花](https://imqi1.com/shot/257.imqi1)
 - [Ubuntu虚拟机踩坑记录](https://imqi1.com/tech/255.imqi1)
-- [百日誓师干呕男孩](https://imqi1.com/discuss/245.imqi1)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
