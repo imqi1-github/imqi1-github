@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [浅谈一下光遇这个游戏](https://imqi1.com/note/303.imqi1)
 - [燕大东校区雁鸣湖](https://imqi1.com/shot/297.imqi1)
 - [上午九点的秦皇岛](https://imqi1.com/shot/295.imqi1)
 - [第一枚光遇徽章](https://imqi1.com/note/282.imqi1)
 - [晚上和朋友们看海](https://imqi1.com/note/280.imqi1)
-- [胖猫事件令我感到痛心](https://imqi1.com/discuss/269.imqi1)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
