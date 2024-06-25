@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [吐槽一下我很讨厌的行为](https://imqi1.com/note/320.imqi1)
 - [我可能不是懒，而是太累了](https://imqi1.com/note/317.imqi1)
 - [现在的年轻人越来越不尊重电脑了](https://imqi1.com/discuss/307.imqi1)
 - [四组团门口的行李寄运](https://imqi1.com/shot/305.imqi1)
 - [浅谈一下光遇这个游戏](https://imqi1.com/note/303.imqi1)
-- [燕大东校区雁鸣湖](https://imqi1.com/shot/297.imqi1)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
