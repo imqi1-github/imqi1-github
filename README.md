@@ -34,7 +34,7 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- [站点编写手记](https://imqi1.com/note/329.imqi1)
+- [站点开发手记](https://imqi1.com/note/329.imqi1)
 - [一组光遇的合照（2）](https://imqi1.com/interest/328.imqi1)
 - [吐槽一下我很讨厌的行为](https://imqi1.com/discuss/320.imqi1)
 - [我可能不是懒，而是太累了](https://imqi1.com/note/317.imqi1)
