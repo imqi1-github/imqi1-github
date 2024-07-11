@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [两个皇冠，我来了](https://imqi1.com/note/349.imqi1)
 - [分享几个自用的站点防盗刷的小方法](https://imqi1.com/tech/339.imqi1)
 - [站点开发手记](https://imqi1.com/note/329.imqi1)
 - [一组光遇的合照（2）](https://imqi1.com/interest/328.imqi1)
 - [吐槽一下我很讨厌的行为](https://imqi1.com/discuss/320.imqi1)
-- [我可能不是懒，而是太累了](https://imqi1.com/note/317.imqi1)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
