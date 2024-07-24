@@ -34,7 +34,7 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- [一个地方待久了，想去新的地方](https://imqi1.com/discuss/363.imqi1)
+- [旧地方待久了，想去新地方](https://imqi1.com/discuss/363.imqi1)
 - [为屏蔽垃圾评论，我也是煞费苦心](https://imqi1.com/tech/358.imqi1)
 - [光遇五周年演唱会](https://imqi1.com/shot/355.imqi1)
 - [两个皇冠，我来了](https://imqi1.com/note/349.imqi1)
