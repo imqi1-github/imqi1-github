@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- [旧地方待久了，想去新地方](https://imqi1.com/category/363)
-- [为屏蔽垃圾评论，我也是煞费苦心](https://imqi1.com/category/358)
-- [光遇五周年演唱会](https://imqi1.com/category/355)
-- [两个皇冠，我来了](https://imqi1.com/category/349)
-- [分享几个自用的站点防盗刷的小方法](https://imqi1.com/category/339)
+- [旧地方待久了，想去新地方](https://imqi1.com/archives/363/)
+- [为屏蔽垃圾评论，我也是煞费苦心](https://imqi1.com/archives/358/)
+- [光遇五周年演唱会](https://imqi1.com/archives/355/)
+- [两个皇冠，我来了](https://imqi1.com/archives/349/)
+- [分享几个自用的站点防盗刷的小方法](https://imqi1.com/archives/339/)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
