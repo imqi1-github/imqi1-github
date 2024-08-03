@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [站点开发手记（3）](https://imqi1.com/note/384)
 - [中国大陆的互联网冷战](https://imqi1.com/discuss/383)
 - [站点开发手记（2）](https://imqi1.com/note/369)
 - [旧地方待久了，想去新地方](https://imqi1.com/discuss/363)
 - [为屏蔽垃圾评论，我也是煞费苦心](https://imqi1.com/tech/358)
-- [光遇五周年演唱会](https://imqi1.com/shot/355)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
