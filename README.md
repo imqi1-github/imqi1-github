@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [人变懒了，出门都是一种奢侈](https://imqi1.com/note/401)
 - [音乐推荐：起风了](https://imqi1.com/note/394)
 - [站点开发手记（3）](https://imqi1.com/note/384)
 - [中国大陆的互联网冷战](https://imqi1.com/discuss/383)
 - [站点开发手记（2）](https://imqi1.com/note/369)
-- [旧地方待久了，想去新地方](https://imqi1.com/discuss/363)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
