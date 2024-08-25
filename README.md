@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [黑神话悟空游玩体验](https://imqi1.com/note/412)
 - [烟卡流行背后的隐忧](https://imqi1.com/discuss/410)
 - [人变懒了，出门都是一种奢侈](https://imqi1.com/note/401)
 - [音乐推荐：起风了](https://imqi1.com/note/394)
 - [站点开发手记（3）](https://imqi1.com/note/384)
-- [中国大陆的互联网冷战](https://imqi1.com/discuss/383)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
