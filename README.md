@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [微信，别给我推送垃圾文章了](https://imqi1.com/discuss/478)
 - [好久没有这么无语过了](https://imqi1.com/note/476)
 - [二次游玩西港花园](https://imqi1.com/shot/452)
 - [被推上风口浪尖的“小杨哥”](https://imqi1.com/discuss/423)
 - [b站小耳机使用体验](https://imqi1.com/note/421)
-- [从古话中品中国文字](https://imqi1.com/note/416)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
