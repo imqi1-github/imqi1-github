@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [退游了，换钱，买了块手表](https://imqi1.com/note/514)
 - [属实是给我过了个好生日](https://imqi1.com/note/508)
 - [年少的梦想还在为之努力吗](https://imqi1.com/note/498)
 - [秦皇岛秋天了](https://imqi1.com/shot/494)
 - [实习结束，我获得了优秀个人奖](https://imqi1.com/note/484)
-- [微信，别给我推送垃圾文章了](https://imqi1.com/discuss/478)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
