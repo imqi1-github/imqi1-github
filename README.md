@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [写字也可以陶冶情操，放松心情](https://imqi1.com/note/536)
 - [近来情况总结](https://imqi1.com/note/526)
 - [ImQi1主题全面重构计划](https://imqi1.com/note/522)
 - [退游了，换钱，买了块手表](https://imqi1.com/note/514)
 - [属实是给我过了个好生日](https://imqi1.com/note/508)
-- [年少的梦想还在为之努力吗](https://imqi1.com/note/498)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
