@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [让人感到陌生的哈尔滨](https://imqi1.com/discuss/552)
 - [雷神山医院，土木最后的绝唱](https://imqi1.com/discuss/545)
 - [写字也可以陶冶情操，放松心情](https://imqi1.com/note/536)
 - [近来情况总结](https://imqi1.com/note/526)
 - [ImQi1主题全面重构计划](https://imqi1.com/note/522)
-- [退游了，换钱，买了块手表](https://imqi1.com/note/514)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
