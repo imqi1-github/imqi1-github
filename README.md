@@ -34,7 +34,7 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- [无冬天，不滑雪](https://imqi1.com/note/574)
+- [无滑雪，不冬天](https://imqi1.com/note/574)
 - [今年冬天，秦皇岛一场雪都没下](https://imqi1.com/note/565)
 - [我的主力系统，从 Windows 换到了 Ubuntu](https://imqi1.com/note/559)
 - [让人感到陌生的哈尔滨](https://imqi1.com/discuss/552)
