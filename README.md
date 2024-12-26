@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [高中的每一篇短文，都会很用心的看](https://imqi1.com/note/576)
 - [无滑雪，不冬天](https://imqi1.com/note/574)
 - [今年冬天，秦皇岛一场雪都没下](https://imqi1.com/note/565)
 - [我的主力系统，从 Windows 换到了 Ubuntu](https://imqi1.com/note/559)
 - [让人感到陌生的哈尔滨](https://imqi1.com/discuss/552)
-- [雷神山医院，土木最后的绝唱](https://imqi1.com/discuss/545)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
