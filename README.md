@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [和高中同学逛中街，吃米线，打台球](https://imqi1.com/note/604)
 - [发现了个好玩的东西：IP纯净度检测](https://imqi1.com/tech/603)
 - [我在2024年拍摄的照片](https://imqi1.com/shot/592)
 - [诈骗手段层出不穷，各位要擦亮双眼](https://imqi1.com/discuss/591)
 - [当家庭成为枷锁](https://imqi1.com/discuss/577)
-- [高中的每一篇短文，都会很用心的看](https://imqi1.com/note/576)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
