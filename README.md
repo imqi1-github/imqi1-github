@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [沈阳下雪了，中街银装素裹](https://imqi1.com/note/657)
 - [在 web.archive.org 中找到了以前的博客](https://imqi1.com/note/641)
 - [软著证书已发放，分享下申请过程](https://imqi1.com/tech/636)
 - [和高中同学逛中街，吃米线，打台球](https://imqi1.com/note/604)
 - [发现了个好玩的东西：IP纯净度检测](https://imqi1.com/tech/603)
-- [我在2024年拍摄的照片](https://imqi1.com/shot/592)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
