@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [唐探1900、毕设，以及一些小事](https://imqi1.com/note/713)
 - [冒着严寒去和平湾观看打铁花](https://imqi1.com/note/707)
 - [如何本地部署DeepSeek大模型](https://imqi1.com/tech/703)
 - [给各位看一看“小美评审团”的奇葩们](https://imqi1.com/note/662)
 - [沈阳下雪了，中街银装素裹](https://imqi1.com/note/657)
-- [在 web.archive.org 中找到了以前的博客](https://imqi1.com/note/641)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
