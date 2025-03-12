@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [亲身体会，没有压力，才有动力](https://imqi1.com/discuss/729)
 - [近来情况总结-2](https://imqi1.com/note/725)
 - [《美国队长4·新世界秩序》](https://imqi1.com/note/723)
 - [唐探1900、毕设，以及一些小事](https://imqi1.com/note/713)
 - [冒着严寒去和平湾观看打铁花](https://imqi1.com/note/707)
-- [如何本地部署DeepSeek大模型](https://imqi1.com/tech/703)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
