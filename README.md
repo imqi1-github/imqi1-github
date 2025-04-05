@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [趁年轻，爬长城](https://imqi1.com/note/764)
 - [渤海涨潮，雾气退去，看海看沙看风景](https://imqi1.com/shot/750)
 - [透明键盘到货，外设+1](https://imqi1.com/shot/742)
 - [来北京面试、逛圆明园](https://imqi1.com/note/735)
 - [亲身体会，没有压力，才有动力](https://imqi1.com/discuss/729)
-- [近来情况总结-2](https://imqi1.com/note/725)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
