@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [毕业在即，做一下人生规划](https://imqi1.com/note/776)
 - [闲来无事，在拼多多买了三款盲盒手表](https://imqi1.com/note/775)
 - [爬过长城看美景](https://imqi1.com/shot/772)
 - [大学四年，总结出的省钱方式](https://imqi1.com/discuss/765)
 - [趁年轻，爬长城](https://imqi1.com/note/764)
-- [渤海涨潮，雾气退去，看海看沙看风景](https://imqi1.com/shot/750)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
