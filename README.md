@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [分享一些增强访客幸福感的一些技巧](https://imqi1.com/tech/821)
 - [主页翻新，真是一项大工程](https://imqi1.com/note/819)
 - [冒着酷暑去仙螺岛乘坐缆车](https://imqi1.com/note/818)
 - [赚到人生第一桶金，换下了带了9个月的手表](https://imqi1.com/note/810)
 - [SCDN新方案，如何免费申请EdgeOne兑换码](https://imqi1.com/tech/802)
-- [通关《捞女游戏》](https://imqi1.com/note/792)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
