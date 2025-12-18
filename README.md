@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [12月近况，实况照片功能](https://imqi1.com/note/853)
 - [理想的未来和现实的现在](https://imqi1.com/note/851)
 - [4000公里首摔，真是当头一棒](https://imqi1.com/note/847)
 - [属实是信息差了，没想到现在的手机生态这么完善](https://imqi1.com/note/845)
 - [比较是快乐的小偷](https://imqi1.com/discuss/836)
-- [搬家，新车，父亲手术](https://imqi1.com/note/835)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
