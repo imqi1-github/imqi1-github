@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT年度总结，卖号纠纷，代码块新样式](https://imqi1.com/note/877)
 - [近期拍摄的新照片](https://imqi1.com/shot/872)
 - [zai-org / Open-AutoGLM 已开源，体验一下](https://imqi1.com/tech/862)
 - [12月近况，实况照片功能](https://imqi1.com/note/853)
 - [理想的未来和现实的现在](https://imqi1.com/note/851)
-- [4000公里首摔，真是当头一棒](https://imqi1.com/note/847)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
