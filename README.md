@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [更新到Ty1.3，顺便维护一些插件](https://imqi1.com/note/990)
 - [没想到现在的编程AI已经这么好用了](https://imqi1.com/tech/969)
 - [Typecho 图床从USS迁移至COS](https://imqi1.com/tech/891)
 - [ChatGPT年度总结，卖号纠纷，代码块新样式](https://imqi1.com/note/877)
 - [近期拍摄的新照片](https://imqi1.com/shot/872)
-- [zai-org / Open-AutoGLM 已开源，体验一下](https://imqi1.com/tech/862)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
