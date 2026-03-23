@@ -34,7 +34,7 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- [未命名文档](https://imqi1.com/note/997)
+- [尝试从情绪中走出](https://imqi1.com/note/998)
 - [更新到Ty1.3，顺便维护一些插件](https://imqi1.com/note/990)
 - [没想到现在的编程AI已经这么好用了](https://imqi1.com/tech/969)
 - [Typecho 图床从USS迁移至COS](https://imqi1.com/tech/891)
