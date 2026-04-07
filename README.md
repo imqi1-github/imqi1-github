@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
-- [前端性能监控](http://localhost/content/30)
-- [正则表达式入门](http://localhost/content/29)
-- [CSS BEM 命名规范](http://localhost/content/28)
-- [Git 常用命令总结](http://localhost/content/27)
-- [JavaScript 异步处理](http://localhost/content/26)
+- [个人毕业设计展](https://imqi1.com/shot/1005)
+- [尝试从情绪中走出](https://imqi1.com/note/998)
+- [更新到Ty1.3，顺便维护一些插件](https://imqi1.com/note/990)
+- [没想到现在的编程AI已经这么好用了](https://imqi1.com/tech/969)
+- [Typecho 图床从USS迁移至COS](https://imqi1.com/tech/891)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
