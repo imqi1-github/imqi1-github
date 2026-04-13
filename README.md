@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [我的 Nuxt 版网站即将上线了](https://imqi1.com/note/1007)
 - [个人毕业设计展](https://imqi1.com/shot/1005)
 - [尝试从情绪中走出](https://imqi1.com/note/998)
 - [更新到Ty1.3，顺便维护一些插件](https://imqi1.com/note/990)
 - [没想到现在的编程AI已经这么好用了](https://imqi1.com/tech/969)
-- [Typecho 图床从USS迁移至COS](https://imqi1.com/tech/891)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
