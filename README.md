@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [为了一个女孩，我哭了一整晚](https://imqi1.com/content/note/1009)
 - [彻底换到新的 CMS 了，Glass 主题介绍](https://imqi1.com/content/note/1008)
 - [我的 Nuxt 版网站即将上线了](https://imqi1.com/content/note/1007)
 - [个人毕业设计展](https://imqi1.com/content/shot/1005)
 - [尝试从情绪中走出](https://imqi1.com/content/note/998)
-- [更新到Ty1.3，顺便维护一些插件](https://imqi1.com/content/note/990)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
