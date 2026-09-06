@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [抖音刷到了一个模拟高中的游戏](https://imqi1.com/content/note/1022)
 - [或许我们每个人都有问题](https://imqi1.com/content/note/1021)
 - [介绍下本站特色功能及一些杂谈](https://imqi1.com/content/note/1020)
 - [蜘蛛侠4，咋说呢，还是挺烂的](https://imqi1.com/content/note/1019)
 - [跟风做了一系列地图界面](https://imqi1.com/content/note/1016)
-- [川渝游结束，浅浅记录一下](https://imqi1.com/content/note/1012)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
