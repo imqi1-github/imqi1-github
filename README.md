@@ -34,11 +34,11 @@
 
 ### 📃 Recent Blog
 <!-- BLOG-POST-LIST:START -->
+- [本站 CMS 已开源，欢迎体验](https://imqi1.com/content/note/1023)
 - [抖音刷到了一个模拟高中的游戏](https://imqi1.com/content/note/1022)
 - [或许我们每个人都有问题](https://imqi1.com/content/note/1021)
 - [介绍下本站特色功能及一些杂谈](https://imqi1.com/content/note/1020)
 - [蜘蛛侠4，咋说呢，还是挺烂的](https://imqi1.com/content/note/1019)
-- [找个工作好难啊](https://imqi1.com/content/note/1018)
 <!-- BLOG-POST-LIST:END -->
 </td></tr>
 
